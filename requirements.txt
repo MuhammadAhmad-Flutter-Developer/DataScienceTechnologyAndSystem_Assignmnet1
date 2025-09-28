@@ -1,0 +1,32 @@
+# Core scientific libraries
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+
+# Geospatial analysis
+geopandas
+shapely
+pyproj
+fiona
+
+# Interactive / Notebook
+jupyter
+notebook
+
+# PySpark
+pyspark
+
+# Reproducibility tools
+dvc
+git-lfs
+
+# Optional utilities
+pathlib
